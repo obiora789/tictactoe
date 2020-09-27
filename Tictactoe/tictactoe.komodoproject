@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="0c8a1420-5c5c-fc42-a221-4c9900d3688e" kpf_version="5" name="tictactoe.komodoproject">
+<file id="23736ad4-0ff7-5942-a2a9-e86a946ae09e" idref="0c8a1420-5c5c-fc42-a221-4c9900d3688e" name="tictactoe.css" url="tictactoe.css">
+</file>
+<file id="894a6679-b44e-fa48-a4c3-9a579cd72d2f" idref="0c8a1420-5c5c-fc42-a221-4c9900d3688e" name="tictactoe.js" url="tictactoe.js">
+</file>
+<preference-set idref="0c8a1420-5c5c-fc42-a221-4c9900d3688e" id="project" preftype="project">
+</preference-set>
+</project>
